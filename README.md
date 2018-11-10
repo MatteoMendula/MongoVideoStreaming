@@ -1,5 +1,5 @@
 # Mongo Video Streaming #
-This is a small application to upload and view video on a mLab mongo databse.
+This is a small application to upload and view video on a mLab mongo database.
 
 First, you need to create an account on https://mlab.com/
 Then, create a new databse and a user to connect it to your application
